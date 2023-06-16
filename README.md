@@ -3,11 +3,11 @@
 
 
 ## 🚀 Sobre mim
-Dentista por formação, viajante na antes da transição, e agora estudante de TI. 
+Dentista por formação, viajante antes da transição, e agora estudante de TI. 
 
 Estudando na Cesar School no momento e empolgadíssimo com essa nova jornada!
 
-📡 Adoro meu Fusca e meu cachorro Elvis 🐕, onde viajamos varios dias pelo interior de Santa Catarina num momento sabático para inicar o processo de estudos.
+📡 Sou doido pelo meu  Fusca ´74 e meu cachorro Elvis 🐕, onde viajamos vários dias pelo interior de Santa Catarina em um  momento sabático para inicar o processo de estudos em TI.
 
 ## 🛠 Habilidades
 Javascript, HTML, introdução a programação... Loading...
