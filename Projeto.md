@@ -1,1 +1,1 @@
-Aqui onde iniciarei o primeiro projheto. Na verdade, um estudo teste de prática.
+Aqui onde iniciarei o primeiro projeto. Na verdade, um estudo teste de prática.
